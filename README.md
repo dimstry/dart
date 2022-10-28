@@ -1,7 +1,7 @@
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
-### Learning Fundamental dart
+<!-- ### Learning Fundamental dart
 
 - variabel
 - komentar
@@ -40,6 +40,6 @@ in `lib/`, and example unit test in `test/`.
 - anonymous function
 - scope
 - closure
-- recursive function
+- recursive function -->
 
 <!-- y -->
